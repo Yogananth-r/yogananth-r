@@ -45,9 +45,10 @@
 <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask"alt="Flask" width="40" height="40">&nbsp;</a>
 <a href="https://www.djangoproject.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django"alt="Django" width="40" height="40">&nbsp;</a>
 </div>
-      ---
+      
 <div id="tools">
    <a href="https://anaconda.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda"alt="Anaconda" width="40" height="40">&nbsp;</a>
    <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm"alt="PyCharm" width="40" height="40">&nbsp;</a>
+<a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"alt="VSCode" width="40" height="40">&nbsp;</a>
 
    </div>
