@@ -39,6 +39,8 @@
 <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"alt="PHP" width="40" height="40">&nbsp;</a>
 <a href="https://laravel.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel"alt="Laravel" width="40" height="40">&nbsp;</a>
 <a href="https://www.tensorflow.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow"alt="TensorFlow" width="40" height="40">&nbsp;</a>
+<a href="https://opencv.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV"alt="OpenCV" width="40" height="40">&nbsp;</a>
+<a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"alt="Pandas" width="40" height="40">&nbsp;</a>
    
  
    </div>
