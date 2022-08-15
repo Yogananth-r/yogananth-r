@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<strong> Hello there 👋  <strong/>
+<strong> Hello there 👋  </strong>
 </div>
 
    ---
@@ -24,3 +24,10 @@
 - :memo: Exploring Technical Content Writer as A <a href="https://yogananth-r.blogspot.com">Blogger :point_left: </a>.
 - :hourglass: I am a Tech Enthusiast, read Tech articles and solve problems in my leisure time!
 - :mailbox: Ready To Collaborate and Contact Me Through [![Linkedin Badge](https://img.shields.io/badge/-Yogananth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/yogananth-r-5a8393193)
+
+---
+### :hammer_and_wrench: Languages And Tools I Use :   
+<div id="lang">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+   
+</div>
