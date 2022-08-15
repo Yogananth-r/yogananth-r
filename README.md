@@ -36,5 +36,6 @@
 <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScipt" alt="JavaScript" width="40" height="40"/>&nbsp;</a>
 <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap"alt="Bootstrap" width="40" height="40">&nbsp;</a>
 <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS"alt="TailwindCSS" width="40" height="40">&nbsp;</a>
+<a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"alt="PHP" width="40" height="40">&nbsp;</a>
  
    </div>
