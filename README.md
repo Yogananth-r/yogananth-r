@@ -20,6 +20,7 @@
    
    I am A Data Scientist and Web Developer <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> From India.
 - :desktop_computer: I'm gaining knowledge and working on several projects as a data scientist and use web development for UI and Deployment purposes.
-- :exclamation: I have been working in python and it is my go to tool in every problem and project. I use Scikit-learn, TensorFlow for analysis and prediction and flask,django for deployment.
+- :exclamation: I have been working in Python and it is my go to tool in every problem and project. I use Scikit-learn, TensorFlow for analysis and prediction and Flask,Django for deployment.
 - :memo: Exploring Technical Content Writer as A <a href="https://yogananth-r.blogspot.com">Blogger :point_left: </a>.
-- :hourglass: I am a Tech Enthusiast, read tech articles and solve problems in my leisure time!
+- :hourglass: I am a Tech Enthusiast, read Tech articles and solve problems in my leisure time!
+- :mailbox: Ready To Collaborate and Contact Me Through [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/yogananth-r-5a8393193)
