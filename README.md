@@ -55,6 +55,10 @@
 <a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"alt="Figma" width="40" height="40">&nbsp;</a>
 <a href="https://www.canva.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"alt="Canva" width="40" height="40">&nbsp;</a>
 <a href="https://www.kaggle.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle"alt="Kaggle" width="40" height="40">&nbsp;</a>
-   
+</div>
 
-   </div>
+---
+
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yogananth-r&theme=python-dark)](https://git.io/streak-stats)
+
