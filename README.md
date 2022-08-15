@@ -41,6 +41,7 @@
 <a href="https://www.tensorflow.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow"alt="TensorFlow" width="40" height="40">&nbsp;</a>
 <a href="https://opencv.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV"alt="OpenCV" width="40" height="40">&nbsp;</a>
 <a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"alt="Pandas" width="40" height="40">&nbsp;</a>
+<a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"alt="MySQL" width="40" height="40">&nbsp;</a>
    
  
    </div>
