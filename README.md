@@ -49,7 +49,7 @@
 <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"alt="MySQL" width="40" height="40">&nbsp;</a>
 <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask"alt="Flask" width="40" height="40">&nbsp;</a>
 <a href="https://www.djangoproject.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django"alt="Django" width="40" height="40">&nbsp;</a>
-<a href="https://powerbi.microsoft.com/en-au/"><img src="https://img.icons8.com/color/344/power-bi.png" title="Power Bi"alt="Power Bi" width="40" height="40">&nbsp;</a>
+<a href="https://powerbi.microsoft.com/en-au/"><img src="https://img.icons8.com/color/344/power-bi.png" title="Power BI"alt="Power BI" width="40" height="40">&nbsp;</a>
 
 </div>
       
