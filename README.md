@@ -70,4 +70,4 @@
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yogananth-r)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogananth-r&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogananth-r&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
