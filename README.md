@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://gfycat.com/heavenlytatteredgordonsetter" width="100"/><br>
+   <div style='position:relative; padding-bottom:calc(28.13% + 44px)'><iframe src='https://gfycat.com/ifr/HeavenlyTatteredGordonsetter' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/heavenlytatteredgordonsetter">via Gfycat</a></p><br>
    <strong>Yogananth R</strong>
 <div id="badges">
   <a href="https://www.linkedin.com/in/yogananth-r-5a8393193/">
