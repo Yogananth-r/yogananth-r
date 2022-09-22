@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src ="https://media2.giphy.com/media/ES9cAJlcxblRESzOH1/200.gif"> <br>
+   <img src ="https://media2.giphy.com/media/ES9cAJlcxblRESzOH1/200.gif" height="50" width="100"> <br>
    <strong>Yogananth R</strong>
 <div id="badges">
   <a href="https://www.linkedin.com/in/yogananth-r-5a8393193/">
