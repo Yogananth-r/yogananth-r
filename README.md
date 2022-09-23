@@ -29,6 +29,9 @@
 - :hourglass: I am a Tech Enthusiast, read Tech articles and solve problems in my leisure time!
 - :mailbox: Ready To Collaborate and Contact Me Through [![Linkedin Badge](https://img.shields.io/badge/-Yogananth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/yogananth-r-5a8393193)
 
+
+Currently I'm working on Streamlit!
+
 ---
 ### :hammer_and_wrench: Languages And Tools I Use :   
 <div id="lang">
@@ -64,8 +67,6 @@
 <a href="https://www.canva.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"alt="Canva" width="40" height="40">&nbsp;</a>
 <a href="https://www.kaggle.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle"alt="Kaggle" width="40" height="40">&nbsp;</a>
 </div>
-
-Currently I'm working on Streamlit!
 
 ---
 
