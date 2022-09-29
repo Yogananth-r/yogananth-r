@@ -73,4 +73,6 @@ Currently I'm working on Streamlit!!
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yogananth-r)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?yogananth-r=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogananth-r&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
