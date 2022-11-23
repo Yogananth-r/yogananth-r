@@ -77,4 +77,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogananth-r&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://activity-graph.herokuapp.com/graph?username=yogananth-r&area=true)
+[![](https://activity-graph.herokuapp.com/graph?username=yogananth-r&bg_color=ffffff&color=7c2d76&line=dd3131&point=562768&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
