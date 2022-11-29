@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src ="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif" height="60" width="100"> <br>
+   <img src ="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930648540-2AG2AUX4BL35UJ6H0PEZ/e2f96-old-header-machine-learning-pt1.gif?format=500w" height="60" width="100"> <br>
 <strong>Yogananth R , Here!!</strong>
 <div id="badges">
   <a href="https://www.linkedin.com/in/yogananth-rengasamy-5a8393193/">
