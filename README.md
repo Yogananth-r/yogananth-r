@@ -26,7 +26,7 @@
 - :desktop_computer: I'm gaining knowledge and working on several projects as a data scientist and use web development for UI and Deployment purposes.
 - :exclamation: I have been working in Python and it is my go to tool in every problem and project. I use Scikit-learn, TensorFlow for analysis and prediction and Flask, Streamlit for deployment. Streamlit Is the latest tech that I'm using for Deployment purposes!!
 - :memo: Exploring Technical Content Writing as A <a href="https://yogananth-r.blogspot.com">Blogger :point_left: </a>.
-- :hourglass: I am a Tech Enthusiast, read Tech articles and solve problems in my leisure time!
+- :hourglass: I am a Tech Enthusiast, I read Tech articles and solve problems in my leisure time!
 - :mailbox: Ready To Collaborate and Contact Me Through [![Linkedin Badge](https://img.shields.io/badge/-Yogananth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/yogananth-rengasamy-5a8393193)
 
 
