@@ -31,6 +31,7 @@
 
 
 - Currently I'm working on Streamlit for Deployment and I'm learning PyTorch!!
+- [My Machine Learning Resources](https://github.com/Yogananth-r/machine-learning-resources)
 
 ---
 ### :hammer_and_wrench: Languages And Tools I Use :   
