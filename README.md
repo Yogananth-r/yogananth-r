@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<strong> Hello there 👋</strong>
-</div>
+<strong> Hello there 👋 </strong>
+</div> 
 
    ---
    
@@ -30,7 +30,7 @@
 - :mailbox: Ready To Collaborate and Contact Me Through [![Linkedin Badge](https://img.shields.io/badge/-Yogananth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/yogananth-rengasamy-5a8393193)
 
 
-- Currently I'm working on Streamlit for Deployment and I'm learning PyTorch!!
+- Currently I'm working on Streamlit for Deployment and I'm learning PyTorch!!!
 - [My Machine Learning Resources - Repo](https://github.com/Yogananth-r/machine-learning-resources)
 
 ---
