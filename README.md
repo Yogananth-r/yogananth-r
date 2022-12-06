@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<strong> Hello there 👋 </strong>
+<strong> Hello there 👋</strong>
 </div> 
 
    ---
@@ -34,6 +34,7 @@
 - [My Machine Learning Resources - Repo](https://github.com/Yogananth-r/machine-learning-resources)
 
 ---
+
 ### :hammer_and_wrench: Languages And Tools I Use :   
 <div id="lang">
    <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;</a>
@@ -57,7 +58,7 @@
 <a href="https://powerbi.microsoft.com/en-au/"><img src="https://img.icons8.com/color/344/power-bi.png" title="Power BI"alt="Power BI" width="40" height="40">&nbsp;</a>
 <a href="https://streamlit.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" title="Streamlit"alt="Streamlit" width="85" height="40">&nbsp;</a>
 </div>
-      
+      <br>
 <div id="tools">
    <a href="https://colab.research.google.com/"><img src="https://miro.medium.com/max/256/0*zNcjWYiZcJgreZAs.png" title="Google Colab"alt="Google Colab" width="40" height="40">&nbsp;</a>
    <a href="https://anaconda.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda"alt="Anaconda" width="40" height="40">&nbsp;</a>
