@@ -32,6 +32,7 @@
 
 - Currently I'm working on Streamlit for Deployment and I'm learning PyTorch!!
 - [My Machine Learning Resources - Repo](https://github.com/Yogananth-r/machine-learning-resources)
+- [My Placement Preparation Resources - Repo](https://github.com/Yogananth-r/placement-preparation)
 
 ---
 
