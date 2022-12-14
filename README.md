@@ -33,7 +33,7 @@
 - Currently I'm working on End to End Deployments and I'm learning PyTorch!!
 - [My Machine Learning Resources - Repo](https://github.com/Yogananth-r/machine-learning-resources)
 - [My Placement Preparation Resources - Repo](https://github.com/Yogananth-r/placement-preparation)
-
+- [Profile](https://linktr.ee/yogananth_r)
 ---
 
 ### :hammer_and_wrench: Languages And Tools I Use :   
