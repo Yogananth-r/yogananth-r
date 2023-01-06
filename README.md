@@ -80,4 +80,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yogananth-r&row=2&column=2)](https://github.com/yogananth-r/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogananth-r&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
