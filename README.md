@@ -30,8 +30,6 @@
 - :mailbox: Ready To Collaborate and Contact Me Through [![Linkedin Badge](https://img.shields.io/badge/-Yogananth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yogananth-rengasamy-5a8393193)
 <br>
 
-
-
 - Currently I'm working on End to End Deployments and I'm learning PyTorch!! <br> 
 <br>
 
