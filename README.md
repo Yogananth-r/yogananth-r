@@ -22,7 +22,7 @@
    
    ### :man_technologist: About Me:
    
-   I am A budding ML Engineer and Web Developer <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> From India.
+   I am A budding ML Engineer and Software Developer <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> From India.
 - :desktop_computer: I'm gaining knowledge and working on several projects as a data scientist and use web development for UI and Deployment purposes.
 - :exclamation: I have been working in Python and it is my go to tool in every problem and project. I use Scikit-learn, TensorFlow, PyTorch for analysis and prediction and Flask, Streamlit for deployment.
 - :memo: Exploring Technical Content Writing as A <a href="https://yogananth-r.blogspot.com">Blogger :point_left: </a>.
