@@ -47,10 +47,10 @@
    <a href="https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</a>
    <a href="https://html5.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40"  height="40"/>&nbsp;</a>
    <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;</a>
-<a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScipt" alt="JavaScript" width="40" height="40"/>&nbsp;</a>
-<a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap"alt="Bootstrap" width="40" height="40">&nbsp;</a>
+   <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScipt" alt="JavaScript" width="40" height="40"/>&nbsp;</a>
+   <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap"alt="Bootstrap" width="40" height="40">&nbsp;</a>
 <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS"alt="TailwindCSS" width="40" height="40">&nbsp;</a>
-<a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"alt="PHP" width="40" height="40">&nbsp;</a>
+   <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"alt="PHP" width="40" height="40">&nbsp;</a>
 <a href="https://https://pytorch.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch"alt="PyTorch" width="40" height="40">&nbsp;</a>
 <a href="https://www.tensorflow.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow"alt="TensorFlow" width="40" height="40">&nbsp;</a>
 <a href="https://opencv.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV"alt="OpenCV" width="40" height="40">&nbsp;</a>
