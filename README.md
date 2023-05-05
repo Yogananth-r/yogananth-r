@@ -49,16 +49,16 @@
    <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;</a>
    <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScipt" alt="JavaScript" width="40" height="40"/>&nbsp;</a>
    <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap"alt="Bootstrap" width="40" height="40">&nbsp;</a>
-<a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS"alt="TailwindCSS" width="40" height="40">&nbsp;</a>
+   <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS"alt="TailwindCSS" width="40" height="40">&nbsp;</a>
    <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"alt="PHP" width="40" height="40">&nbsp;</a>
-<a href="https://https://pytorch.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch"alt="PyTorch" width="40" height="40">&nbsp;</a>
-<a href="https://www.tensorflow.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow"alt="TensorFlow" width="40" height="40">&nbsp;</a>
-<a href="https://opencv.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV"alt="OpenCV" width="40" height="40">&nbsp;</a>
-<a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"alt="Pandas" width="40" height="40">&nbsp;</a>
-<a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"alt="MySQL" width="40" height="40">&nbsp;</a>
-<a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask"alt="Flask" width="40" height="40">&nbsp;</a>
-<a href="https://www.djangoproject.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django"alt="Django" width="40" height="40">&nbsp;</a>
-<a href="https://streamlit.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" title="Streamlit"alt="Streamlit" width="85" height="40">&nbsp;</a>
+   <a href="https://https://pytorch.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch"alt="PyTorch" width="40" height="40">&nbsp;</a>
+   <a href="https://www.tensorflow.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow"alt="TensorFlow" width="40" height="40">&nbsp;</a>
+   <a href="https://opencv.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV"alt="OpenCV" width="40" height="40">&nbsp;</a>
+   <a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"alt="Pandas" width="40" height="40">&nbsp;</a>
+   <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"alt="MySQL" width="40" height="40">&nbsp;</a>
+   <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask"alt="Flask" width="40" height="40">&nbsp;</a>
+   <a href="https://www.djangoproject.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django"alt="Django" width="40" height="40">&nbsp;</a>
+   <a href="https://streamlit.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" title="Streamlit"alt="Streamlit" width="85" height="40">&nbsp;</a>
 </div>
       <br>
 <div id="tools">
