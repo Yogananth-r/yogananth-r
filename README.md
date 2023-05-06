@@ -65,11 +65,11 @@
    <a href="https://colab.research.google.com/"><img src="https://miro.medium.com/max/256/0*zNcjWYiZcJgreZAs.png" title="Google Colab"alt="Google Colab" width="40" height="40">&nbsp;</a>
    <a href="https://anaconda.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda"alt="Anaconda" width="40" height="40">&nbsp;</a>
    <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm"alt="PyCharm" width="40" height="40">&nbsp;</a>
-<a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"alt="VSCode" width="40" height="40">&nbsp;</a>
-<a href="https://www.adobe.com/in/products/photoshop/landpa.html?gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr82NU4UGF67_5uWlUzLPOpSJmxl1cx2cQhFVeyi15f23cn3vQl54goaAnCaEALw_wcB&sdid=SGDJMMG3&mv=search&ef_id=Cj0KCQjw3eeXBhD7ARIsAHjssr82NU4UGF67_5uWlUzLPOpSJmxl1cx2cQhFVeyi15f23cn3vQl54goaAnCaEALw_wcB:G:s&s_kwcid=AL!3085!3!585712413968!e!!g!!photoshop!16470706475!133281435039"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop"alt="Photoshop" width="40" height="40">&nbsp;</a>
-<a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"alt="Figma" width="40" height="40">&nbsp;</a>
-<a href="https://www.canva.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"alt="Canva" width="40" height="40">&nbsp;</a>
-<a href="https://www.kaggle.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle"alt="Kaggle" width="40" height="40">&nbsp;</a>
+   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"alt="VSCode" width="40" height="40">&nbsp;</a>
+   <a href="https://www.adobe.com/in/products/photoshop/landpa.html?gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr82NU4UGF67_5uWlUzLPOpSJmxl1cx2cQhFVeyi15f23cn3vQl54goaAnCaEALw_wcB&sdid=SGDJMMG3&mv=search&ef_id=Cj0KCQjw3eeXBhD7ARIsAHjssr82NU4UGF67_5uWlUzLPOpSJmxl1cx2cQhFVeyi15f23cn3vQl54goaAnCaEALw_wcB:G:s&s_kwcid=AL!3085!3!585712413968!e!!g!!photoshop!16470706475!133281435039"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop"alt="Photoshop" width="40" height="40">&nbsp;</a>
+   <a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"alt="Figma" width="40" height="40">&nbsp;</a>
+   <a href="https://www.canva.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"alt="Canva" width="40" height="40">&nbsp;</a>
+   <a href="https://www.kaggle.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle"alt="Kaggle" width="40" height="40">&nbsp;</a>
 </div>
 
 ---
