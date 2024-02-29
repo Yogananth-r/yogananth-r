@@ -22,8 +22,8 @@
    
    ### :man_technologist: About Me:
    
-   I am A budding ML Engineer and Software Developer <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> From India.
-- :desktop_computer: I'm gaining knowledge and working on several projects as an ML Engineer and use different tools for Deployment purposes.
+   I am A Cloud Analyst Working in Deloitte India. <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> From
+- :desktop_computer:I'm currently working on GCP AND OCI. I have gained knowledge and worked on several projects as an ML Engineer and use different tools for Deployment purposes.
 - :exclamation: I have been working in Python and it is my go to tool in every problem and project. I use Scikit-learn, TensorFlow, PyTorch for analysis and prediction and Flask, Streamlit, fastAPI for deployment.
 - :memo: Exploring Technical Content Writing as A <a href="https://yogananth-r.blogspot.com">Blogger :point_left: </a>.
 - :hourglass: I am a Tech Enthusiast, I read Tech articles and solve problems in my leisure time!
